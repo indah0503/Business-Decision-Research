@@ -18,7 +18,9 @@ Customer dikategorikan churn apabila tidak melakukan transaksi selama 6 bulan te
 
 ## 2. Data Understanding
 Dataset: data_retail.csv
+
 Jumlah data: 100.000 baris
+
 Periode: 2013 – 2019
 
 Feature Description
